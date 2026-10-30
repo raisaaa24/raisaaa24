@@ -14,15 +14,6 @@ i'm a beginner programmer who's learning how to turn random ideas into actual co
 - 🌱 learning something new every day
 - 🐛 professional bug collector (unofficial title)
 
-💌 my coding journey
-
-- [x] create my GitHub account
-- [x] install PyCharm
-- [x] write my first Python code
-- [ ] build my first cool project
-- [ ] become a debugging master
-- [ ] make my future self proud ♡
-
 🛠️ currently learning
 
 "Python" · "GitHub" · "Problem Solving"
